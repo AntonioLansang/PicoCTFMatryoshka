@@ -1,0 +1,2 @@
+1. binwalk -e dolls.jpg
+2. Recursively binwallk resulting images until flag.txt
